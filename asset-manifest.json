@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Task-Mate/static/js/main.dca1e5b4.chunk.js",
+    "main.js.map": "/Task-Mate/static/js/main.dca1e5b4.chunk.js.map",
+    "runtime-main.js": "/Task-Mate/static/js/runtime-main.b62ab81a.js",
+    "runtime-main.js.map": "/Task-Mate/static/js/runtime-main.b62ab81a.js.map",
+    "static/js/2.a6f19205.chunk.js": "/Task-Mate/static/js/2.a6f19205.chunk.js",
+    "static/js/2.a6f19205.chunk.js.map": "/Task-Mate/static/js/2.a6f19205.chunk.js.map",
+    "index.html": "/Task-Mate/index.html",
+    "precache-manifest.c0a497bc63160ca393dea1ea8508b24d.js": "/Task-Mate/precache-manifest.c0a497bc63160ca393dea1ea8508b24d.js",
+    "service-worker.js": "/Task-Mate/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b62ab81a.js",
+    "static/js/2.a6f19205.chunk.js",
+    "static/js/main.dca1e5b4.chunk.js"
+  ]
+}
