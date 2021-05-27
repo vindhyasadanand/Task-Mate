@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ask-Mate/static/js/main.dca1e5b4.chunk.js",
+    "main.js.map": "/ask-Mate/static/js/main.dca1e5b4.chunk.js.map",
+    "runtime-main.js": "/ask-Mate/static/js/runtime-main.8a96a5a7.js",
+    "runtime-main.js.map": "/ask-Mate/static/js/runtime-main.8a96a5a7.js.map",
+    "static/js/2.a6f19205.chunk.js": "/ask-Mate/static/js/2.a6f19205.chunk.js",
+    "static/js/2.a6f19205.chunk.js.map": "/ask-Mate/static/js/2.a6f19205.chunk.js.map",
+    "index.html": "/ask-Mate/index.html",
+    "precache-manifest.8216c5edd93db0bfad4c3512a996832b.js": "/ask-Mate/precache-manifest.8216c5edd93db0bfad4c3512a996832b.js",
+    "service-worker.js": "/ask-Mate/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a96a5a7.js",
+    "static/js/2.a6f19205.chunk.js",
+    "static/js/main.dca1e5b4.chunk.js"
+  ]
+}
